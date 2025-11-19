@@ -1,0 +1,5 @@
+PRIMARY_COLOR = "#3498db"
+SECONDARY_COLOR = "#2ecc71"
+BACKGROUND_COLOR = "#ecf0f1"
+TEXT_COLOR = "#2c3e50"
+FONT = ("Arial, sans-serif", 14)
